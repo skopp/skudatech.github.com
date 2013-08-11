@@ -1,4 +1,9 @@
-# Jekyll-Bootstrap
+[![Code Climate](https://codeclimate.com/github/skudatech/skuda.rb.png)](https://codeclimate.com/github/skudatech/skuda.rb)
+
+# TODO!
+==
+
+Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
